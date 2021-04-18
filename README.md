@@ -7,7 +7,7 @@
 + Termux (No root required)
 + ~Linux~
 
-## Made with
+## Made with:
 + wget
 + curl
 ## Screenshots:
@@ -28,7 +28,7 @@ pkg update;pkg upgrade;pkg install git;git clone https://github.com/MrHacker-X/C
 ```
 + Now your full setup is completed so type ``` clone ``` anytime in your termux to launch this tool.
 
-## More screenshots
+## More screenshots:
 
 ![photo](https://raw.githubusercontent.com/MrHacker-X/Extra-X/main/assets/Screenshot_2021-04-18-12-24-29-903_com.termux.jpg)
 ![photo](https://raw.githubusercontent.com/MrHacker-X/Extra-X/main/assets/Screenshot_2021-04-18-12-25-01-764_com.termux.jpg)
@@ -37,3 +37,12 @@ pkg update;pkg upgrade;pkg install git;git clone https://github.com/MrHacker-X/C
 + You can check it out
 <p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=SploitX&theme=radical"></a>
 <p align="center"><a href="https://github.com/MrHacker-X/Traper-X.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=Traper-X&theme=radical"></a>
+
+
+<h3><b><i>📡 Connect with us:</i></b></h3>
+
+<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/github.png" /></a>
+
+<a href="https://instagram.com/mrhacker.x/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/instagram.png" /></a>
+
+<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/telegram.png" /></a>
