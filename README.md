@@ -33,15 +33,7 @@ pkg update;pkg upgrade;pkg install git;git clone https://github.com/MrHacker-X/C
 ![photo](https://raw.githubusercontent.com/MrHacker-X/Extra-X/main/assets/Screenshot_2021-04-18-12-24-29-903_com.termux.jpg)
 ![photo](https://raw.githubusercontent.com/MrHacker-X/Extra-X/main/assets/Screenshot_2021-04-18-12-25-01-764_com.termux.jpg)
 ![photo](https://raw.githubusercontent.com/MrHacker-X/Extra-X/main/assets/Screenshot_2021-04-18-12-26-15-472_com.termux.jpg)
-
-<h3><b><i>📡 Connect with us :</i></b></h3>
-## 📡 Connect with us:
-<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://instagram.com/mrhacker.x/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
-<a href="https://t.me/mrhackersx/"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
-
 ## Popular repository:
 + You can check it out
-+
 <p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=SploitX&theme=radical"></a>
 <p align="center"><a href="https://github.com/MrHacker-X/Traper-X.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=Traper-X&theme=radical"></a>
