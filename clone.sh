@@ -34,7 +34,7 @@ wget -r $site
 echo
 echo -e '\033[1;94m'
 read -p "Press Enter To The Back" enter
-bash clone.sh
+clone
 fi
 #2
 if [ $mrx = 2 ]
@@ -45,7 +45,7 @@ wget $sit
 echo
 echo -e '\033[1;94m'
 read -p "Press Enter To The Back" enter
-bash clone.sh
+clone
 fi
 #3
 if [ $mrx = 3 ]
@@ -56,7 +56,7 @@ curl $sitee
 echo
 echo -e '\033[1;94m'
 read -p "Press Enter To The Back" enter
-bash clone.sh
+clone
 fi
 #0
 if [ $mrx = 0 ]
