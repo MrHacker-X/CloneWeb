@@ -68,5 +68,5 @@ else
 echo
 echo -e "\033[1;91m[!] Invalid input"
 sleep 1.0
-bash clone.sh
+clone
 fi
