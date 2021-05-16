@@ -14,9 +14,9 @@
 ![photo](https://raw.githubusercontent.com/MrHacker-X/Extra-X/main/assets/Screenshot_2021-04-18-10-22-21-331_com.termux.jpg)
 ## Installation:
 ```
-pkg update
-pkg upgrade
-pkg install git
+apt update
+apt upgrade
+apt install git wget curl
 git clone https://github.com/MrHacker-X/CloneWeb.git/
 cd CloneWeb
 chmod +x *
@@ -24,7 +24,7 @@ bash setup.sh
 ```
 ## Single line command:
 ```
-pkg update;pkg upgrade;pkg install git;git clone https://github.com/MrHacker-X/CloneWeb.git/;cd CloneWeb;chmod +x *;bash setup.sh
+apt update;apt upgrade;apt install git wget curl;git clone https://github.com/MrHacker-X/CloneWeb.git/;cd CloneWeb;chmod +x *;bash setup.sh
 ```
 + Now your full setup is completed so type ``` clone ``` anytime in your termux to launch this tool.
 
